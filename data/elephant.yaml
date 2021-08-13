@@ -1,0 +1,10 @@
+# train and val datasets (image directory or *.txt file with image paths)
+train: data/image
+val: data/image
+test: data/image
+
+# number of classes
+nc: 1
+
+# class names
+names: ['Elephant']
